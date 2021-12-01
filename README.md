@@ -1,2 +1,2 @@
 # odin-recipes
-This is my first project I'm doing from The Odin Project. It's an html only page.
+This is my first project, It s from The Odin Project. It's an html only website.
